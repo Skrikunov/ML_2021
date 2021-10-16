@@ -1,6 +1,8 @@
 # ML_2020
 Homeworks for "Machine Learning" course, Skoltech, 2020, term 3
 
+Final project link: https://github.com/Albly/UnsupSeg
+
 ### HW1 - comments:
 * 1): 1, 
 * 2): 1, 
